@@ -1,1 +1,1 @@
-cupcakearmy/cryptgeon:2.6.1
+redis:7-alpine
