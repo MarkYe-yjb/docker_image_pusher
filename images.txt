@@ -1,1 +1,1 @@
-matomo
+hslr/sun-panel:latest
