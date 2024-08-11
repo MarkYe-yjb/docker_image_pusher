@@ -1,2 +1,1 @@
-portainer/agent:2.20.1
-portainer/portainer-ce:2.20.1
+emby/embyserver:latest
