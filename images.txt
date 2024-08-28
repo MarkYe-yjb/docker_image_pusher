@@ -1,3 +1,5 @@
+nextcloud
+mariadb:10.5
 wcjiang/reference:latest
 antonyleons/ward:latest
 shtse8/photopea:1.0
