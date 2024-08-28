@@ -1,3 +1,4 @@
+johngong/qbittorrent:qee_4.3.9.10
 nextcloud
 mariadb:10.5
 wcjiang/reference:latest
