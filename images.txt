@@ -1,2 +1,5 @@
-lscr.io/linuxserver/qbittorrent:4.4.5
-mariadb:10.5
+wcjiang/reference:latest
+antonyleons/ward:latest
+shtse8/photopea:1.0
+ghcr.io/danvergara/morphos-server:latest
+johngong/qbittorrent:qee_4.3.9.10
