@@ -1,1 +1,1 @@
-mariadb:10.5
+lscr.io/linuxserver/qbittorrent:4.4.5
