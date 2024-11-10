@@ -1,1 +1,2 @@
-lscr.io/linuxserver/qbittorrent:4.3.9
+funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.5
+paddlecloud/paddlespeech:develop-cpu-latest
