@@ -1,2 +1,2 @@
-funasr_repo/funasr:funasr-runtime-sdk-cpu-0.4.5
-paddlecloud/paddlespeech:develop-cpu-latest
+harryliu888/funasr-online-server
+paddlecloud/paddlespeech
